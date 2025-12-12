@@ -1,6 +1,7 @@
 streamlit
-numpy
 opencv-python
+numpy
+pandas
 PIL
 matplotlib.pyplot
 sklearn.cluster
