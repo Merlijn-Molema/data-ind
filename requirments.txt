@@ -1,0 +1,6 @@
+streamlit
+numpy
+cv2
+PIL
+matplotlib.pyplot
+sklearn.cluster
